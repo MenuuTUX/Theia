@@ -1,6 +1,6 @@
 // This sharpens the blurred image using a 3x3 kernel.
-// Made by: @MilkFlavor with ❤️ on GitHub
-// Check out: https://github.com/MilkFlavor
+// Made by: @MenuuTUX with ❤️ on GitHub
+// Check out: https://github.com/MenuuTUX
 
 #include <opencv2/opencv.hpp>
 

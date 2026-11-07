@@ -1,6 +1,6 @@
 #!/bin/bash
 # Theia build script
-# Made by: @MilkFlavor with ❤️ on GitHub
+# Made by: @MenuuTUX with ❤️ on GitHub
 # Date: 2023-01-01
 
 # This script is used to build the Theia

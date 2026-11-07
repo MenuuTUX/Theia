@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/MilkFlavor/Theia"><img src="https://raw.githubusercontent.com/MilkFlavor/Theia/main/assets/logo.png" alt="Theia" width="200"></a>
+  <a href="https://github.com/MenuuTUX/Theia"><img src="https://raw.githubusercontent.com/MenuuTUX/Theia/main/assets/logo.png" alt="Theia" width="200"></a>
   <br>
   Theia
   <br>
@@ -16,7 +16,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/MilkFlavor/Theia/main/assets/example.png)
+![screenshot](https://raw.githubusercontent.com/MenuuTUX/Theia/main/assets/example.png)
 
 ## Key Features
 
@@ -33,7 +33,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [C
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MilkFlavor/Theia.git
+$ git clone https://github.com/MenuuTUX/Theia.git
 
 # Go into the repository
 $ cd Theia
@@ -44,14 +44,14 @@ $ ./theia_util.sh
 
 ## Download
 
-You can [download](https://github.com/MilkFlavor/Theia/releases/download/0.5/theia_linux) the latest installable version of Theia for Linux.
+You can [download](https://github.com/MenuuTUX/Theia/releases/download/0.5/theia_linux) the latest installable version of Theia for Linux.
 
 ## License
 
 MIT
 
-> GitHub [@MilkFlavor](https://github.com/MilkFlavor)
+> GitHub [@MenuuTUX](https://github.com/MenuuTUX)
 
 ## Final Message
 
-For anyone who is just passing by, this was a pretty fun and challenging project. I hope you have a fun time exploring it. :) - From Shib
+For anyone who is just passing by, this was a pretty fun and challenging project. I hope you have a fun time exploring it. :)

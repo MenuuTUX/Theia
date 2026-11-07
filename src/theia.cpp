@@ -1,6 +1,6 @@
 // Main function of the program
-// Made by: @MilkFlavor with ❤️ on GitHub
-// Check out: https://github.com/MilkFlavor
+// Made by: @MenuuTUX with ❤️ on GitHub
+// Check out: https://github.com/MenuuTUX
 
 
 #include <filesystem>

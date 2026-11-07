@@ -1,6 +1,6 @@
 // This script is used to blur the input image using either Gaussian or bilateral filter depending on the blur_amount.
-// Made by: @MilkFlavor with ❤️ on GitHub
-// Check out: https://github.com/MilkFlavor
+// Made by: @MenuuTUX with ❤️ on GitHub
+// Check out: https://github.com/MenuuTUX
 
 #include <opencv2/opencv.hpp>
 

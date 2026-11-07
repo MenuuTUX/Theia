@@ -1,7 +1,7 @@
 #!/bin/bash
 # Opencv installation script for linux
-# Made by: @MilkFlavor with ❤️ on GitHub
-# Check out: https://github.com/MilkFlavor
+# Made by: @MenuuTUX with ❤️ on GitHub
+# Check out: https://github.com/MenuuTUX
 
 # Clone the Google Test repository
 git clone https://github.com/google/googletest.git

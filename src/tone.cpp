@@ -1,6 +1,6 @@
 // This script removes screentones from the input image.
-// Made by: @MilkFlavor with ❤️ on GitHub
-// Check out: https://github.com/MilkFlavor
+// Made by: @MenuuTUX with ❤️ on GitHub
+// Check out: https://github.com/MenuuTUX
 
 #include <blur.hpp>
 #include <log.hpp>

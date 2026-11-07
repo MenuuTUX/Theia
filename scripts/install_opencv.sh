@@ -1,7 +1,7 @@
 #!/bin/bash
 # Opencv installation script for linux
-# Made by: @MilkFlavor with ❤️ on GitHub
-# Check out: https://github.com/MilkFlavor
+# Made by: @MenuuTUX with ❤️ on GitHub
+# Check out: https://github.com/MenuuTUX
 
 # Check type of linux distribution
 if [[ -f /etc/os-release ]]; then
@@ -51,7 +51,7 @@ elif [[ "$OS" == "openSUSE Tumbleweed" ]]; then
 else
     echo "Your linux distribution is not supported."
     echo "Please leave an issue on on my GitHub:"
-    echo "https://github.com/MilkFlavor/Theia/issues"
+    echo "https://github.com/MenuuTUX/Theia/issues"
     echo "For now please install the required dependencies manually."
     exit 1
 fi
@@ -77,7 +77,7 @@ elif [[ "$OS" == "openSUSE Tumbleweed" ]]; then
 else
     echo "Your linux distribution is not supported."
     echo "Please leave an issue on on my GitHub:"
-    echo "https://github.com/MilkFlavor/Theia/issues"
+    echo "https://github.com/MenuuTUX/Theia/issues"
     echo "For now please install the required dependencies manually."
     exit 1
 fi

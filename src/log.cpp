@@ -1,6 +1,6 @@
 // This script creates log messages with the current date and time.
-// Made by: @MilkFlavor with ❤️ on GitHub
-// Check out: https://github.com/MilkFlavor
+// Made by: @MenuuTUX with ❤️ on GitHub
+// Check out: https://github.com/MenuuTUX
 
 #include <chrono>
 #include <iomanip>
